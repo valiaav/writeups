@@ -11,14 +11,14 @@ A complete walkthrough of the TryHackMe Agent Sudo room covering:
 
 ## Files
 
-- Agent-Sudo-Writeup.pdf
+- [Agent-Sudo-Writeup.pdf](./Agent-Sudo-Writeup.pdf)
 
 ## Medium Article
 
 Read the full article on Medium:
 
-*(I'll add the Medium link after publishing.)*
+[Agent Sudo (TryHackMe) Walkthrough: Steganography, OSINT, and CVE-2019-14287 Privilege Escalation](https://medium.com/@vaniliaa/agent-sudo-tryhackme-walkthrough-steganography-osint-and-cve-2019-14287-privilege-escalation-26d54d34a027)
 
 ---
 
-Educational purposes only.
+This writeup is provided for educational purposes only.
